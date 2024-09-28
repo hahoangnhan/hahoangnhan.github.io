@@ -1,0 +1,103 @@
+authorname: "Marvin Schmitt"
+draft: false
+
+project:
+  type: website
+  
+  resources:
+    - "img/**"
+    - "assets/**"
+    - "sitemap.xml"
+    - "_redirects"
+    - "speaking/pdf/**"
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+title-meta: "Marvin Schmitt"
+description-meta: "Computer Scientist & Psychologist | PhD researcher | Deep Learning, Data Science, Research"
+
+website:
+  title: "Marvin Schmitt"
+  description: "Computer Scientist & Psychologist | PhD researcher | Deep Learning, Data Science, Research"
+  site-url: https://www.marvinschmitt.com
+  image: img/website_thumbnail.png
+  
+  repo-url: "https://github.com/marvinschmitt/marvinschmitt-dot-com"
+  repo-branch: main
+  
+  search: 
+    location: navbar
+    type: textbox
+  
+  navbar:
+    pinned: true
+    logo: /img/ms_icon.png
+    left:
+      - text: Projects
+        href: projects/index.qmd
+      - text: Speaking
+        href: speaking/index.qmd
+      - text: CV
+        href: cv/index.qmd
+      - text: Blog
+        href: blog/index.qmd
+    right:
+      - icon: twitter
+        href: https://twitter.com/MarvinSchmittML
+      - icon: youtube
+        href: https://www.youtube.com/@marvin-schmitt
+      - icon: github
+        href: https://github.com/marvinschmitt
+      - icon: linkedin
+        href: https://www.linkedin.com/in/marvin-schmitt/
+      - icon: envelope
+        aria-label: email
+        href: "mailto:mail.marvinschmitt@gmail.com"
+  
+  favicon: img/favicon.ico
+  
+  twitter-card: 
+    creator: "@MarvinSchmittML"
+    image: "/img/website_thumbnail.png"
+    
+  open-graph: 
+    image: "/img/website_thumbnail.png"
+    locale: en_US
+    
+  google-analytics: 
+    tracking-id: G-N36VLTEM79
+    storage: none
+  
+  page-footer: 
+    left: |
+      <span class="faux-block">{{< fa brands creative-commons >}} 2023 Marvin Schmitt</span>
+      <span class="faux-block"><a href="https://github.com/marvinschmitt/marvinschmitt-dot-com">{{< fa brands github >}} Source Code</a></span>
+    center: |
+      <span class="faux-block"><a href="/impressum/index.html">Impressum</a></span>
+    right: |
+      <span class="faux-block"> Designed with {{< fa heart >}}</span>
+      <span class="faux-block"> Built with <a href="https://quarto.org/">Quarto</a></span>
+  
+execute:
+  freeze: true
+  
+filters:
+  - html/newpagelink.lua
+
+format:
+  html:
+    include-in-header: html/seo.html
+    fontsize: 1.1em
+    theme: 
+      - flatly
+      - html/styles.scss
+    toc: false
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
+    highlight-style: monokai
