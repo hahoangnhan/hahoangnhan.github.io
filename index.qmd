@@ -29,7 +29,7 @@ title: ""
 format: html
 ---
 
-![](img/nhan_toledo.jpg){alt="Nhan Toledo" width="70%" style="display: block; margin-left: auto; margin-right: auto;"}
+![](img/nhan_toledo.jpg){alt="Nhan Toledo" width="100%" style="display: block; margin-left: auto; margin-right: auto;"}
 
 <link rel="stylesheet" href="html/landing_page_styles.css">
 
