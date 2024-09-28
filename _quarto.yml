@@ -44,8 +44,8 @@ website:
         href: teaching/index.qmd
       - text: CV
         href: cv/index.qmd
-      - text: Blog
-        href: blog/index.qmd
+      # - text: Blog
+      #   href: blog/index.qmd
     right:
       - icon: twitter
         href: https://twitter.com/ha_hoang_nhan

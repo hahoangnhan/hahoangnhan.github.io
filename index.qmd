@@ -29,6 +29,8 @@ title: ""
 format: html
 ---
 
+![](img/nhan_toledo.jpg)
+
 <link rel="stylesheet" href="html/landing_page_styles.css">
 
 ::: {.gradient_bg}
@@ -36,20 +38,15 @@ format: html
 ::: {.hero_content}
 # Hi, I'm <span class="gradient_text">Nhan</span>.
 
-Hello there! Nhan here, a PhD candidate in Accounting at UC3M, preparing to join the job market in 2024-2025. I was a visiting scholar at UNC-Chapel Hill from January to May 2024. 
+I am a PhD candidate in Accounting at UC3M, preparing to join the job market in 2024-2025. I was a visiting scholar at UNC-Chapel Hill from January to May 2024. 
 
-My research delves into how assurance services and corporate reporting can get ahead of emerging topics like cryptocurrency, cybersecurity, and social issues to address the evolving information needs of stakeholders. I develop novel measures derived from corporate disclosures and unstructured data sources by leveraging machine learning and generative AI techniques. 
+My research delves into how <span class="gradient_text">assurance services</span> and <span class="gradient_text">corporate reporting</span> can get ahead of emerging topics like cryptocurrency, cybersecurity, and social issues to address the evolving information needs of stakeholders. I develop novel measures derived from corporate disclosures and unstructured data sources by leveraging machine learning and generative AI techniques. 
 
 I am prepared to teach financial accounting and auditing courses, drawing on my professional teaching background. Furthermore, I am eager to teach research and data-oriented courses in accounting and auditing from my research experience so that I can bridge the gap between academia and practice. I also welcome opportunities to supervise bachelor’s and master’s theses and mentor PhD students as needed.
 :::
-
-<!-- ::: {.hero_image style="display: inline-block;"}
-!Marvin{style="display: block;"}
-::: -->
-
-<div id="dot_container"></div>
 :::
 :::
+
 
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" viewBox="0 0 800 150" opacity="1">
   <defs>
@@ -71,14 +68,14 @@ I am prepared to teach financial accounting and auditing courses, drawing on my 
 <script src="html/TweenMax.min.js"></script>
 <!--<script src="html/parallax.js"></script>-->
 
-:::{#news}
+<!-- :::{#news}
 ## News
 
 
 - **  6, 2024**: My guest episode on the [Learning Bayesian Statistics](https://learnbayesstats.com/) podcast is live. We had a great conversation about my research on amortized Bayesian inference with neural networks. Here's the announcement post on [Twitter](https://x.com/MarvinSchmittML/status/1798708954769641638) and [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7204469302513602560/).
 
 - **April 3, 2024**: Just finished recording an episode of the [Learning Bayesian Statistics](https://learnbayesstats.com/) podcast. The episode will air later this summer. Thanks [Alex Andorra](https://twitter.com/alex_andorra) for having me as a guest!
-:::
+::: -->
 
 <!-- 
 ## Featured Blog Posts
