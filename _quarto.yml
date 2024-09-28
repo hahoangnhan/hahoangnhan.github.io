@@ -1,4 +1,4 @@
-authorname: "Marvin Schmitt"
+authorname: "Hoang Nhan Ha"
 draft: false
 
 project:
@@ -10,7 +10,7 @@ project:
     - "assets/**"
     - "sitemap.xml"
     - "_redirects"
-    - "speaking/pdf/**"
+    - "teaching/pdf/**"
 
   preview: 
     port: 22222
@@ -18,17 +18,17 @@ project:
     watch-inputs: true
     navigate: true
 
-title-meta: "Marvin Schmitt"
-description-meta: "Computer Scientist & Psychologist | PhD researcher | Deep Learning, Data Science, Research"
+title-meta: "Hoang Nhan Ha"
+description-meta: "PhD candidate in Accounting at UC3M"
 
 website:
-  title: "Marvin Schmitt"
-  description: "Computer Scientist & Psychologist | PhD researcher | Deep Learning, Data Science, Research"
-  site-url: https://www.marvinschmitt.com
-  image: img/website_thumbnail.png
+  title: "Hoang Nhan Ha"
+  description: "PhD candidate in Accounting at UC3M"
+  site-url: https://hahoangnhan.github.io/
+  # image: img/website_thumbnail.png
   
-  repo-url: "https://github.com/marvinschmitt/marvinschmitt-dot-com"
-  repo-branch: main
+  repo-url: "https://github.com/hahoangnhan/hahoangnhan.github.io"
+  repo-branch: gh-pages
   
   search: 
     location: navbar
@@ -38,47 +38,45 @@ website:
     pinned: true
     logo: /img/ms_icon.png
     left:
-      - text: Projects
-        href: projects/index.qmd
-      - text: Speaking
-        href: speaking/index.qmd
+      - text: Reasearch
+        href: research/index.qmd
+      - text: Teaching
+        href: teaching/index.qmd
       - text: CV
         href: cv/index.qmd
       - text: Blog
         href: blog/index.qmd
     right:
       - icon: twitter
-        href: https://twitter.com/MarvinSchmittML
-      - icon: youtube
-        href: https://www.youtube.com/@marvin-schmitt
+        href: https://twitter.com/ha_hoang_nhan
       - icon: github
-        href: https://github.com/marvinschmitt
+        href: https://github.com/hahoangnhan
       - icon: linkedin
-        href: https://www.linkedin.com/in/marvin-schmitt/
+        href: https://www.linkedin.com/in/nhanhh/
       - icon: envelope
         aria-label: email
-        href: "mailto:mail.marvinschmitt@gmail.com"
+        href: "mailto:nha@emp.uc3m.es"
   
-  favicon: img/favicon.ico
+  # favicon: img/favicon.ico
   
-  twitter-card: 
-    creator: "@MarvinSchmittML"
-    image: "/img/website_thumbnail.png"
+  # twitter-card: 
+  #   creator: "@ha_hoang_nhan"
+  #   image: "/img/website_thumbnail.png"
     
-  open-graph: 
-    image: "/img/website_thumbnail.png"
-    locale: en_US
+  # open-graph: 
+  #   image: "/img/website_thumbnail.png"
+  #   locale: en_US
     
-  google-analytics: 
-    tracking-id: G-N36VLTEM79
-    storage: none
+  # google-analytics: 
+  #   tracking-id: G-N36VLTEM79
+  #   storage: none
   
   page-footer: 
     left: |
-      <span class="faux-block">{{< fa brands creative-commons >}} 2023 Marvin Schmitt</span>
-      <span class="faux-block"><a href="https://github.com/marvinschmitt/marvinschmitt-dot-com">{{< fa brands github >}} Source Code</a></span>
-    center: |
-      <span class="faux-block"><a href="/impressum/index.html">Impressum</a></span>
+      <span class="faux-block">{{< fa brands creative-commons >}} 2024 Hoang Nhan Ha</span>
+      <span class="faux-block"><a href="https://github.com/hahoangnhan/hahoangnhan.github.io">{{< fa brands github >}} Source Code</a></span>
+    # center: |
+    #   <span class="faux-block"><a href="/impressum/index.html">Impressum</a></span>
     right: |
       <span class="faux-block"> Designed with {{< fa heart >}}</span>
       <span class="faux-block"> Built with <a href="https://quarto.org/">Quarto</a></span>

@@ -275,23 +275,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Hi, I'm Marvin.",
+    "title": "Hi, I’m Nhan.",
     "section": "",
-    "text": "I am a Computer Scientist and a Psychologist.\n            I use generative models to solve problems in probabilistic machine learning.\n            \n            \n            I am a final-year PhD student at the European Laboratory for Learning and Intelligent Systems (ELLIS) supervised by Paul Bürkner. My main affiliation is the Cluster of Excellence SimTech at the University of Stuttgart, Germany. I am currently on a 6-month research visit at Aalto University, Finland, with my second ELLIS advisor Aki Vehtari\n.\n            \n            If you want to work with me as a collaborator, supervisor, instructor, or public speaker, drop me a message: mail.marvinschmitt@gmail.com"
+    "text": ":::{#news} ## News"
   },
   {
     "objectID": "index.html#news",
     "href": "index.html#news",
-    "title": "Hi, I'm Marvin.",
+    "title": "Hi, I’m Nhan.",
     "section": "News",
-    "text": "News\n\nJuly 8, 2024: I started a YouTube channel! The videos will broadly fall into these categories: Early career research based on my experience, technical machine learning topics, applied programming in R and Python. In my first video, I talk about my background and my plans for the channel: \nJune 6, 2024: My guest episode on the Learning Bayesian Statistics podcast is live. We had a great conversation about my research on amortized Bayesian inference with neural networks. Here’s the announcement post on Twitter and LinkedIn.\nApril 3, 2024: Just finished recording an episode of the Learning Bayesian Statistics podcast. The episode will air later this summer. Thanks Alex Andorra for having me as a guest!\nMarch 1, 2024: I’m spending 6 months as a visiting researcher in the Probabilistic ML group at Aalto University in Finland, hosted by Aki Vehtari.\nJanuary 23, 2024: I will be at Bayes on the Beach 2024, Australia, in February. I will give a talk about reliable amortized Bayesian inference with neural networks and co-lead a workshop on amortized Bayesian workflows.\nDecember 2023: We launched the BayesFlow Forums! The BayesFlow Forums provide a community for asking and answering questions about all aspects of BayesFlow and amortized Bayesian workflows in general. Hop over and join the discussion!\nOctober 11, 2023: In our recent preprint, we make simulation-based inference more data-efficient by leveraging self-consistency properties of the Bayesian joint model. You find the preprint on arXiv. Update: Published in the NeurIPS UniReps workshop.\nSeptember 22, 2023: Our paper “Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks” has been awarded the DAGM GCPR Honorable Mention at this year’s German Conference on Pattern Recognition. Huge thanks to my great co-authors!\nSeptember 6, 2023: Our paper “Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks” has been accepted with oral presentation at the German Conference for Pattern Recognition 2023. Learn more at the project website.\nJune 21, 2023: I will be at the ELLIS Doctoral Symposium 2023 in Helsinki from August 28 to September 1, 2023. Absolutely thrilled to meet other PhD students and researchers and talk about machine learning research in beautiful Helsinki!\nMay 9, 2023: Our paper “JANA: Jointly Amortized Neural Approximation of Complex Bayesian Models” has been accepted to UAI 2023 (Uncertainty in AI). Check out the project page to find out more!\nMay 1, 2023: Our paper “Association between vitamin D status and eryptosis–results from the German National Cohort Study” has been published in Annals of Hematology. A great collaboration among twelve researchers from Martin-Luther-University Halle-Wittenberg, Cluster of Excellence SimTech (University of Stuttgart) and University of Hohenheim. Here’s a link to the paper.\nApril 12, 2023: I have recorded a 15min presentation about our paper on Meta-Uncertainty in Bayesian Model Comparison (AISTATS 2023). Check it out: \nMarch 29, 2023: I’ll be presenting our paper on Meta-Uncertainty in Bayesian Model Comparison at AISTATS 2023 from April 25-27 in Valencia, Spain. You find links to the paper and code on my Projects page or on the dedicated paper website. If you see me around at AISTATS, let’s chat!"
+    "text": "News\n\n** 6, 2024**: My guest episode on the Learning Bayesian Statistics podcast is live. We had a great conversation about my research on amortized Bayesian inference with neural networks. Here’s the announcement post on Twitter and LinkedIn.\nApril 3, 2024: Just finished recording an episode of the Learning Bayesian Statistics podcast. The episode will air later this summer. Thanks Alex Andorra for having me as a guest!"
   },
   {
     "objectID": "index.html#featured-blog-posts",
     "href": "index.html#featured-blog-posts",
-    "title": "Hi, I'm Marvin.",
+    "title": "Hi, I’m Nhan.",
     "section": "Featured Blog Posts",
-    "text": "Featured Blog Posts\n\n\n\n\n\n\n\n\n\n\nI started a YouTube channel!\n\n\n\nJul 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFunctional Programming in R, Part 1: Basics\n\n\n\nJul 10, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCreate Your Website with Quarto: Complete Tutorial and Template\n\n\n\nMar 28, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Featured Blog Posts"
   },
   {
     "objectID": "blog/laptop-mic-obs/index.html",
@@ -436,6 +436,69 @@
   {
     "objectID": "speaking/index.html",
     "href": "speaking/index.html",
+    "title": "Public Speaking, Talks, and Presentations",
+    "section": "",
+    "text": "Here’s a list of my selected public speaking occasions, talks, and presentations where I was involved. If available, you’ll also find slides, related papers, and recordings. Bold font indicates presenter.\n\nSchmitt, M. (2023). Talk: Towards Reliable Amortized Bayesian Inference. First presented at the Bayes on the Beach 2024 conference.\nSchmitt, M., Bürkner, P.-C. (2024). Workshop: Amortized Bayesian Inference with BayesFlow. First presented at the Bayes on the Beach 2024 conference.\nSchmitt, M., Habermann, D., Bürkner, P. C., & Radev, S. T. (2023). Talk: Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference. First presented at the NeurIPS Workshop for Unifying Representations in Neural Models. Preprint available on ArXiv.\nSchmitt, M. (2023). Research talk (invited): Jointly Amortized Bayesian Inference, Machine and Human Intelligence group, University of Helsinki & Finnish Center for Artificial Intelligence (FCAI), Finland\nSchmitt, M., Bürkner, P. C., Köthe, U., & Radev, S. T. (2023). Talk (oral): Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks. First presented at the German Conference on Pattern Recognition. Paper published in GCPR Conference Proceedings (best paper honorable mention). Previously featured also as a poster and short talk.\nSchmitt, M. (2023). Talk (contributed): Amortized Simulation‑Based Inference, Tooling Session, ELLIS Doctoral Symposium, Helsinki, Finland\nSchmitt, M., Radev, S. T., & Bürkner, P. C. (2023). Poster: Meta-Uncertainty in Bayesian Model Comparison. First presented at AISTATS 2023. Paper published in AISSTATS Conference Proceedings.\n\n\n\nSchmitt, M. (2023). Talk (invited): What is AI?, Writing workshop for AI short stories, Cyber Valley, Tübingen, Germany\nSchmitt, M. (2023). Talk (invited): Where Does AI begin?, Cyber Valley Office hours (general public audience), Tübingen, Germany\nSchmitt, M. (2023). Talk (invited): Validating synthetic training data in probabilistic machine learning, Blue Yonder Group Inc., Karlsruhe, Germany"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This page contains a brief overview of projects that I significantly shaped throughout the entire project life cycle. In academic terms, this mostly corresponds to first-author publications (single and shared). If you’re interested in a full list of projects I have been involved in, please check out my CV."
+  },
+  {
+    "objectID": "research/index.html#cmpe",
+    "href": "research/index.html#cmpe",
+    "title": "Projects",
+    "section": "Consistency Model Posterior Estimation",
+    "text": "Consistency Model Posterior Estimation\n\nPreprint (arXiv)\nConsistency models for neural posterior estimation (CMPE) is a new free-form conditional sampler for scalable, fast, and amortized simulation-based inference with generative neural networks. CMPE combines the advantages of normalizing flows and flow matching methods into a single generative architecture: It essentially distills a continuous probability flow and enables rapid few-shot inference with an unconstrained architecture that can be tailored to the structure of the estimation problem."
+  },
+  {
+    "objectID": "research/index.html#multinpe",
+    "href": "research/index.html#multinpe",
+    "title": "Projects",
+    "section": "Deep Fusion for Multimodal Simulation-Based Inference",
+    "text": "Deep Fusion for Multimodal Simulation-Based Inference\n\nPreprint (arXiv)\nWe present multimodal neural posterior estimation (MultiNPE), a method to integrate heterogeneous data from different sources in simulation-based inference with neural networks. Inspired by advances in attention-based deep fusion learning, it empowers researchers to analyze data from different domains and infer the parameters of complex mathematical models with increased accuracy and better performance under partially missing data."
+  },
+  {
+    "objectID": "research/index.html#data-efficient-amortized-bayesian-inference-via-self-consistency-losses",
+    "href": "research/index.html#data-efficient-amortized-bayesian-inference-via-self-consistency-losses",
+    "title": "Projects",
+    "section": "Data-Efficient Amortized Bayesian Inference via Self-Consistency Losses",
+    "text": "Data-Efficient Amortized Bayesian Inference via Self-Consistency Losses\n\nShort Paper (NeurIPS UniReps 2023)\nWe propose a method to improve the efficiency and accuracy of amortized Bayesian inference by leveraging universal symmetries in the probabilistic joint model \\(p(\\theta,y)\\). In a nutshell, we invert Bayes’ theorem and estimate the marginal likelihood based on approximate representations of the joint model. Upon perfect approximation, the marginal likelihood is constant across all parameter values by definition. However, approximation error leads to undesirable variance in the marginal likelihood estimates across different parameter values. We formulate violations of this symmetry as a loss function to accelerate the learning dynamics of conditional neural density estimators."
+  },
+  {
+    "objectID": "research/index.html#meta-uncertainty-BMC",
+    "href": "research/index.html#meta-uncertainty-BMC",
+    "title": "Projects",
+    "section": "Meta-Uncertainty in Bayesian Model Comparison",
+    "text": "Meta-Uncertainty in Bayesian Model Comparison\n\nPaper (AISTATS 2023) | Code | Project website | Poster | Presentation (15min)\nMeta-Uncertainty represents a fully probabilistic framework for quantifying the uncertainty over Bayesian posterior model probabilities (PMPs) using meta-models. Meta-models integrate simulated and observed data into a predictive distribution for new PMPs and help reduce overconfidence and estimate the PMPs in future replication studies."
+  },
+  {
+    "objectID": "research/index.html#bayesflow-amortized-bayesian-workflows-with-neural-networks",
+    "href": "research/index.html#bayesflow-amortized-bayesian-workflows-with-neural-networks",
+    "title": "Projects",
+    "section": "BayesFlow: Amortized Bayesian Workflows With Neural Networks",
+    "text": "BayesFlow: Amortized Bayesian Workflows With Neural Networks\n\nSoftware Paper | Documentation | BayesFlow Forums (new!)\nBayesFlow is a Python library for simulation-based training of established neural network architectures for amortized data compression and inference. Amortized Bayesian inference, as implemented in BayesFlow, enables users to train custom neural networks on model simulations and re-use these networks for any subsequent application of the models. Since the trained networks can perform inference almost instantaneously, the upfront neural network training is quickly amortized."
+  },
+  {
+    "objectID": "research/index.html#jana-jointly-amortized-neural-approximation-of-complex-bayesian-models",
+    "href": "research/index.html#jana-jointly-amortized-neural-approximation-of-complex-bayesian-models",
+    "title": "Projects",
+    "section": "JANA: Jointly Amortized Neural Approximation of Complex Bayesian Models",
+    "text": "JANA: Jointly Amortized Neural Approximation of Complex Bayesian Models\n\nPaper (UAI 2023) | Python library\nJANA is a new amortized solution for intractable likelihood functions and posterior densities in Bayesian modeling. It trains three networks to learn both an approximate posterior and a surrogate model for the likelihood, enabling amortized marginal likelihood and posterior predictive estimation."
+  },
+  {
+    "objectID": "research/index.html#sbi-model-misspecification",
+    "href": "research/index.html#sbi-model-misspecification",
+    "title": "Projects",
+    "section": "Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks",
+    "text": "Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks\n\nPaper (GCPR 2023, Best Paper Honorable Mention) | Code | Poster Novel neural network based architectures enable amortized Bayesian inference in settings where the likelihood function is only implicitly defined by a simulation program. But how faithful is such inference when simulations represent reality somewhat inaccurately? This paper illustrates how imposing a probabilistic structure on the latent data summary space can help to detect potentially catastrophic domain shifts during inference."
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
     "title": "Public Speaking, Talks, and Presentations",
     "section": "",
     "text": "Here’s a list of my selected public speaking occasions, talks, and presentations where I was involved. If available, you’ll also find slides, related papers, and recordings. Bold font indicates presenter.\n\nSchmitt, M. (2023). Talk: Towards Reliable Amortized Bayesian Inference. First presented at the Bayes on the Beach 2024 conference.\nSchmitt, M., Bürkner, P.-C. (2024). Workshop: Amortized Bayesian Inference with BayesFlow. First presented at the Bayes on the Beach 2024 conference.\nSchmitt, M., Habermann, D., Bürkner, P. C., & Radev, S. T. (2023). Talk: Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference. First presented at the NeurIPS Workshop for Unifying Representations in Neural Models. Preprint available on ArXiv.\nSchmitt, M. (2023). Research talk (invited): Jointly Amortized Bayesian Inference, Machine and Human Intelligence group, University of Helsinki & Finnish Center for Artificial Intelligence (FCAI), Finland\nSchmitt, M., Bürkner, P. C., Köthe, U., & Radev, S. T. (2023). Talk (oral): Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks. First presented at the German Conference on Pattern Recognition. Paper published in GCPR Conference Proceedings (best paper honorable mention). Previously featured also as a poster and short talk.\nSchmitt, M. (2023). Talk (contributed): Amortized Simulation‑Based Inference, Tooling Session, ELLIS Doctoral Symposium, Helsinki, Finland\nSchmitt, M., Radev, S. T., & Bürkner, P. C. (2023). Poster: Meta-Uncertainty in Bayesian Model Comparison. First presented at AISTATS 2023. Paper published in AISSTATS Conference Proceedings.\n\n\n\nSchmitt, M. (2023). Talk (invited): What is AI?, Writing workshop for AI short stories, Cyber Valley, Tübingen, Germany\nSchmitt, M. (2023). Talk (invited): Where Does AI begin?, Cyber Valley Office hours (general public audience), Tübingen, Germany\nSchmitt, M. (2023). Talk (invited): Validating synthetic training data in probabilistic machine learning, Blue Yonder Group Inc., Karlsruhe, Germany"
