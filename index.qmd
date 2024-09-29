@@ -40,9 +40,10 @@ I'm ready to teach financial accounting and auditing courses, leveraging my prof
 
 :::{#news}
 ## News
-- **August 30-31, 2024**: I attended and presented my paper at the [Scandinavian Accounting Research Conference and Doctoral Consortium 2024](https://www.bi.edu/about-bi/events/2024/august/the-scandinavian-accounting-research-conference-and-doctoral-consortium-2024/) hosted by BI Norwegian Business School, Oslo, Norway. 
+- **August 2024**: I attended and presented my [Does Auditor Communication Matter? The Role of Knowledge Compatibility](research/index.html) paper at the [Scandinavian Accounting Research Conference and Doctoral Consortium 2024](https://www.bi.edu/about-bi/events/2024/august/the-scandinavian-accounting-research-conference-and-doctoral-consortium-2024/) hosted by BI Norwegian Business School, Oslo, Norway.
 
-- **July, 2024**: I attended and presented my paper at the [XVIII International Accounting Symposium](https://indem.uc3m.es/en/evento/d/53/xviii-international-research-symposium-for-accounting-academics) hosted by INDEM (Universidad Carlos III de Madrid) in collaboration with the Ramón Areces Foundation and the Universidad Autónoma de Madrid.
+- **July, 2024**: 
+  - I attended and presented my [Does Auditor Communication Matter? The Role of Knowledge Compatibility](research/index.html) paper at the [XVIII International Accounting Symposium](https://indem.uc3m.es/en/evento/d/53/xviii-international-research-symposium-for-accounting-academics) hosted by INDEM (Universidad Carlos III de Madrid) in collaboration with the Ramón Areces Foundation and the Universidad Autónoma de Madrid.
 
-- **July, 2024**: I presented my **Cybersecurity commitment** paper and met the UK finance and accounting research community at the [Financial Reporting and Business Communication Conference 2024](https://www.bristol.ac.uk/business-school/research/events/2024/financial-reporting-and-business-communication-conference-2024.html) hosted by University of Bristol Business School. 
+  - I presented my [Cybersecurity Commitment](research/index.html) paper and met the UK finance and accounting research community at the [Financial Reporting and Business Communication Conference 2024](https://www.bristol.ac.uk/business-school/research/events/2024/financial-reporting-and-business-communication-conference-2024.html) hosted by University of Bristol Business School. 
 :::
