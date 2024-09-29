@@ -38,9 +38,11 @@ My <span class="gradient_text"><strong><a href="research/index.html" style="colo
 
 I am prepared to teach financial accounting and auditing courses, drawing on my professional and <span class="gradient_text"><strong><a href="teaching/index.html" style="color: inherit; text-decoration: none;">teaching background</a></strong></span>. Furthermore, I am eager to teach research and data-oriented courses in accounting and auditing from my research experience to bridge the gap between academia and practice. I also welcome opportunities to supervise bachelor’s and master’s theses and mentor PhD students as needed.
 
-<!-- :::{#news}
-## News
-- **June 6, 2024**: My guest episode on the [Learning Bayesian Statistics](https://learnbayesstats.com/) podcast is live. We had a great conversation about my research on amortized Bayesian inference with neural networks. Here's the announcement post on [Twitter](https://x.com/MarvinSchmittML/status/1798708954769641638) and [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7204469302513602560/).
 
-- **April 3, 2024**: Just finished recording an episode of the [Learning Bayesian Statistics](https://learnbayesstats.com/) podcast. The episode will air later this summer. Thanks [Alex Andorra](https://twitter.com/alex_andorra) for having me as a guest!
-::: -->
+:::{#news}
+## News
+- **August 30-31, 2024**: I attended and presented my paper at the [The Scandinavian Accounting Research Conference and Doctoral Consortium 2024](https://www.bi.edu/about-bi/events/2024/august/the-scandinavian-accounting-research-conference-and-doctoral-consortium-2024/) hosted by BI Norwegian Business School, Oslo, Norway. 
+
+
+- **July, 2024**: I attended and presented my paper at the [XVIII International Accounting Symposium](https://indem.uc3m.es/en/evento/d/53/xviii-international-research-symposium-for-accounting-academics) hosted by INDEM (Universidad Carlos III de Madrid) in collaboration with the Ramón Areces Foundation and the Universidad Autónoma de Madrid. 
+:::
