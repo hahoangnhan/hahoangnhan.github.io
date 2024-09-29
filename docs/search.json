@@ -193,7 +193,7 @@
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "Besides expertise development, auditors need to keep a high profile as thought leaders due to the knowledge-intensive and credence nature of the audit. However, little is known about how auditors signal their expertise to market targets beyond their past experience (e.g., industry portfolio). To study the relationship between auditor communication strategy and its relation with audit market dynamics and audit quality, I introduce a concept of knowledge compatibility, which is the alignment between the knowledge that auditors offer and that clients demand and quantify it by similarities between audit firm podcasts and client forward-looking disclosure. I hypothesize and find that knowledge compatibility is positively associated with (i) audit fees for current clients, (ii) the likelihood of new auditor appointments, and (iii) accounting quality as evidenced by lower absolute discretionary accruals. These findings highlight the importance of auditor communication in the audit market and the role of knowledge compatibility reflected in the communication strategy to address the idiosyncratic needs of audit clients."
+    "text": "solo-authored, job marker paper\nBesides expertise development, auditors need to keep a high profile as thought leaders due to the knowledge-intensive and credence nature of the audit. However, little is known about how auditors signal their expertise to market targets beyond their past experience (e.g., industry portfolio). To study the relationship between auditor communication strategy and its relation with audit market dynamics and audit quality, I introduce a concept of knowledge compatibility, which is the alignment between the knowledge that auditors offer and that clients demand and quantify it by similarities between audit firm podcasts and client forward-looking disclosure. I hypothesize and find that knowledge compatibility is positively associated with (i) audit fees for current clients, (ii) the likelihood of new auditor appointments, and (iii) accounting quality as evidenced by lower absolute discretionary accruals. These findings highlight the importance of auditor communication in the audit market and the role of knowledge compatibility reflected in the communication strategy to address the idiosyncratic needs of audit clients."
   },
   {
     "objectID": "research/index.html#cmpe",
@@ -355,5 +355,19 @@
     "title": "Curriculum vitae",
     "section": "",
     "text": "Download current CV"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Hi, I’m Nhan.",
+    "section": "News",
+    "text": "News\n\nJune 6, 2024: My guest episode on the Learning Bayesian Statistics podcast is live. We had a great conversation about my research on amortized Bayesian inference with neural networks. Here’s the announcement post on Twitter and LinkedIn.\nApril 3, 2024: Just finished recording an episode of the Learning Bayesian Statistics podcast. The episode will air later this summer. Thanks Alex Andorra for having me as a guest!"
+  },
+  {
+    "objectID": "index.html#featured-blog-posts",
+    "href": "index.html#featured-blog-posts",
+    "title": "Hi, I’m Nhan.",
+    "section": "Featured Blog Posts",
+    "text": "Featured Blog Posts\n\n\n\n\n\n\n\n\n\n\nI started a YouTube channel!\n\n\n\nJul 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFunctional Programming in R, Part 1: Basics\n\n\n\nJul 10, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCreate Your Website with Quarto: Complete Tutorial and Template\n\n\n\nMar 28, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

@@ -9,25 +9,21 @@ format:
     smooth-scroll: true
     fig-responsive: true
 # listing:
-# #   id: blog-listing
-# #   contents:   
-# #     - "blog/youtube-channel/index.qmd"
-# #     - "blog/website-tutorial-quarto/index.qmd"
-# #     - "blog/functional-programming-r-basics/index.qmd"
-#     # - "blog/agile-methods-for-academia/index.qmd"
-#     # - "blog/ggsimplex-prerelease/index.qmd"
-#     # - "blog/4-realizations-from-atomic-habits/index.qmd"
+#   id: blog-listing
+#   contents:   
+#     - "blog/youtube-channel/index.qmd"
+#     - "blog/website-tutorial-quarto/index.qmd"
+#     - "blog/functional-programming-r-basics/index.qmd"
+#     - "blog/agile-methods-for-academia/index.qmd"
+#     - "blog/ggsimplex-prerelease/index.qmd"
+#     - "blog/4-realizations-from-atomic-habits/index.qmd"
 #   sort: "date desc"
 #   type: grid
 #   max-items: 3
 #   grid-columns: 3
 #   fields: [image, date, title]
+---
 
----
----
-title: ""
-format: html
----
 
 ![](img/nhan_toledo.jpg){alt="Nhan Toledo" width="100%" style="display: block; margin-left: auto; margin-right: auto;"}
 
@@ -42,37 +38,9 @@ My <span class="gradient_text"><strong><a href="research/index.html" style="colo
 
 I am prepared to teach financial accounting and auditing courses, drawing on my professional and <span class="gradient_text"><strong><a href="teaching/index.html" style="color: inherit; text-decoration: none;">teaching background</a></strong></span>. Furthermore, I am eager to teach research and data-oriented courses in accounting and auditing from my research experience to bridge the gap between academia and practice. I also welcome opportunities to supervise bachelor’s and master’s theses and mentor PhD students as needed.
 
-
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" viewBox="0 0 800 150" opacity="1">
-  <defs>
-    <linearGradient gradientTransform="rotate(270)" x1="50%" y1="0%" x2="50%" y2="100%" id="sssquiggly-grad">
-      <stop stop-color="hsl(44, 97%, 46%)" stop-opacity="1" offset="0%"></stop>
-      <stop stop-color="hsl(44, 97%, 46%)" stop-opacity="1" offset="100%"></stop>
-    </linearGradient>
-  </defs>
-  <g stroke-width="1.5" stroke="url(#sssquiggly-grad)" fill="none" stroke-linecap="round" transform="matrix(1,0,0,1,-5,51.00748062133789)">
-    <path d="M10,10C31.726190476190478,11.666666666666666,68.75,24.666666666666664,114.28571428571429,18C159.82142857142858,11.333333333333334,180.95238095238096,-22.833333333333332,228.57142857142858,-22C276.1904761904762,-21.166666666666668,295.2380952380953,19.916666666666668,342.8571428571429,22C390.4761904761905,24.083333333333332,409.5238095238095,-14.916666666666668,457.14285714285717,-12C504.7619047619048,-9.083333333333332,523.8095238095239,33.708333333333336,571.4285714285714,36C619.047619047619,38.291666666666664,638.0952380952382,-1.8333333333333333,685.7142857142858,-1C733.3333333333334,-0.16666666666666674,776.1904761904761,31.458333333333336,800,40" transform="matrix(1,0,0,1,0,50)"></path>
-    <path d="M10,10C31.726190476190478,11.666666666666666,68.75,24.666666666666664,114.28571428571429,18C159.82142857142858,11.333333333333334,180.95238095238096,-22.833333333333332,228.57142857142858,-22C276.1904761904762,-21.166666666666668,295.2380952380953,19.916666666666668,342.8571428571429,22C390.4761904761905,24.083333333333332,409.5238095238095,-14.916666666666668,457.14285714285717,-12C504.7619047619048,-9.083333333333332,523.8095238095239,33.708333333333336,571.4285714285714,36C619.047619047619,38.291666666666664,638.0952380952382,-1.8333333333333333,685.7142857142858,-1C733.3333333333334,-0.16666666666666674,776.1904761904761,31.458333333333336,800,40" transform="matrix(1,0,0,1,0,40)"></path>
-    <path d="M10,10C31.726190476190478,11.666666666666666,68.75,24.666666666666664,114.28571428571429,18C159.82142857142858,11.333333333333334,180.95238095238096,-22.833333333333332,228.57142857142858,-22C276.1904761904762,-21.166666666666668,295.2380952380953,19.916666666666668,342.8571428571429,22C390.4761904761905,24.083333333333332,409.5238095238095,-14.916666666666668,457.14285714285717,-12C504.7619047619048,-9.083333333333332,523.8095238095239,33.708333333333336,571.4285714285714,36C619.047619047619,38.291666666666664,638.0952380952382,-1.8333333333333333,685.7142857142858,-1C733.3333333333334,-0.16666666666666674,776.1904761904761,31.458333333333336,800,40" transform="matrix(1,0,0,1,0,30)"></path>
-    <path d="M10,10C31.726190476190478,11.666666666666666,68.75,24.666666666666664,114.28571428571429,18C159.82142857142858,11.333333333333334,180.95238095238096,-22.833333333333332,228.57142857142858,-22C276.1904761904762,-21.166666666666668,295.2380952380953,19.916666666666668,342.8571428571429,22C390.4761904761905,24.083333333333332,409.5238095238095,-14.916666666666668,457.14285714285717,-12C504.7619047619048,-9.083333333333332,523.8095238095239,33.708333333333336,571.4285714285714,36C619.047619047619,38.291666666666664,638.0952380952382,-1.8333333333333333,685.7142857142858,-1C733.3333333333334,-0.16666666666666674,776.1904761904761,31.458333333333336,800,40" transform="matrix(1,0,0,1,0,20)"></path>
-    <path d="M10,10C31.726190476190478,11.666666666666666,68.75,24.666666666666664,114.28571428571429,18C159.82142857142858,11.333333333333334,180.95238095238096,-22.833333333333332,228.57142857142858,-22C276.1904761904762,-21.166666666666668,295.2380952380953,19.916666666666668,342.8571428571429,22C390.4761904761905,24.083333333333332,409.5238095238095,-14.916666666666668,457.14285714285717,-12C504.7619047619048,-9.083333333333332,523.8095238095239,33.708333333333336,571.4285714285714,36C619.047619047619,38.291666666666664,638.0952380952382,-1.8333333333333333,685.7142857142858,-1C733.3333333333334,-0.16666666666666674,776.1904761904761,31.458333333333336,800,40" transform="matrix(1,0,0,1,0,10)"></path>
-  </g>
-</svg>
-
-<script src="html/jquery.min.js"></script>
-<script src="html/TweenMax.min.js"></script>
-<!--<script src="html/parallax.js"></script>-->
-
 <!-- :::{#news}
 ## News
-
-
-- **  6, 2024**: My guest episode on the [Learning Bayesian Statistics](https://learnbayesstats.com/) podcast is live. We had a great conversation about my research on amortized Bayesian inference with neural networks. Here's the announcement post on [Twitter](https://x.com/MarvinSchmittML/status/1798708954769641638) and [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7204469302513602560/).
+- **June 6, 2024**: My guest episode on the [Learning Bayesian Statistics](https://learnbayesstats.com/) podcast is live. We had a great conversation about my research on amortized Bayesian inference with neural networks. Here's the announcement post on [Twitter](https://x.com/MarvinSchmittML/status/1798708954769641638) and [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7204469302513602560/).
 
 - **April 3, 2024**: Just finished recording an episode of the [Learning Bayesian Statistics](https://learnbayesstats.com/) podcast. The episode will air later this summer. Thanks [Alex Andorra](https://twitter.com/alex_andorra) for having me as a guest!
-::: -->
-
-<!-- 
-## Featured Blog Posts
-:::{#blog-listing}
 ::: -->
