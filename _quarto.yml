@@ -122,9 +122,9 @@ preview:
   watch-inputs: true
   navigate: true
 
-metadata:
-  title: "Hoang Nhan Ha"
-  description: "PhD candidate in Accounting at UC3M"
+# metadata:
+#   title: "Hoang Nhan Ha"
+#   description: "PhD candidate in Accounting at UC3M"
 
 website:
   title: "Hoang Nhan Ha"
