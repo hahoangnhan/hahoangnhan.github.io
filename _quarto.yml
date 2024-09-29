@@ -1,3 +1,107 @@
+# authorname: "Hoang Nhan Ha"
+# draft: false
+
+# project:
+#   type: website
+#   output-dir: docs
+  
+#   resources:
+#     - "img/**"
+#     - "assets/**"
+#     - "sitemap.xml"
+#     - "_redirects"
+#     - "teaching/pdf/**"
+
+# preview: 
+#   port: 22222
+#   browser: true
+#   watch-inputs: true
+#   navigate: true
+
+# metadata:
+#   title: "Hoang Nhan Ha"
+#   description: "PhD candidate in Accounting at UC3M"
+
+# website:
+#   title: "Hoang Nhan Ha"
+#   description: "PhD candidate in Accounting at UC3M"
+#   site-url: https://hahoangnhan.github.io/
+#   # image: img/website_thumbnail.png
+  
+#   repo-url: "https://github.com/hahoangnhan/hahoangnhan.github.io"
+#   repo-branch: gh-pages
+  
+#   search: 
+#     location: navbar
+#     type: textbox
+  
+#   navbar:
+#     pinned: true
+#     logo: /img/ms_icon.png
+#     left:
+#       - text: Reasearch
+#         href: research/index.qmd
+#       - text: Teaching
+#         href: teaching/index.qmd
+#       - text: CV
+#         href: cv/index.qmd
+#       # - text: Blog
+#       #   href: blog/index.qmd
+#     right:
+#       - icon: twitter
+#         href: https://twitter.com/ha_hoang_nhan
+#       - icon: github
+#         href: https://github.com/hahoangnhan
+#       - icon: linkedin
+#         href: https://www.linkedin.com/in/nhanhh/
+#       - icon: envelope
+#         aria-label: email
+#         href: "mailto:nha@emp.uc3m.es"
+  
+#   # favicon: img/favicon.ico
+  
+#   # twitter-card: 
+#   #   creator: "@ha_hoang_nhan"
+#   #   image: "/img/website_thumbnail.png"
+    
+#   # open-graph: 
+#   #   image: "/img/website_thumbnail.png"
+#   #   locale: en_US
+    
+#   # google-analytics: 
+#   #   tracking-id: G-N36VLTEM79
+#   #   storage: none
+  
+#   page-footer: 
+#     left: |
+#       <span class="faux-block">{{< fa brands creative-commons >}} 2024 Hoang Nhan Ha</span>
+#       <span class="faux-block"><a href="https://github.com/hahoangnhan/hahoangnhan.github.io">{{< fa brands github >}} Source Code</a></span>
+#     # center: |
+#     #   <span class="faux-block"><a href="/impressum/index.html">Impressum</a></span>
+#     right: |
+#       <span class="faux-block"> Designed with {{< fa heart >}}</span>
+#       <span class="faux-block"> Built with <a href="https://quarto.org/">Quarto</a></span>
+  
+# execute:
+#   freeze: true
+  
+# filters:
+#   - html/newpagelink.lua
+
+# format:
+#   html:
+#     include-in-header: html/seo.html
+#     fontsize: 1.1em
+#     theme: 
+#       - flatly
+#       - html/styles.scss
+#     toc: false
+#     anchor-sections: true
+#     fig-cap-location: margin
+#     reference-location: margin
+#     footnotes-hover: true
+#     highlight-style: monokai
+
 authorname: "Hoang Nhan Ha"
 draft: false
 
@@ -12,18 +116,18 @@ project:
     - "_redirects"
     - "teaching/pdf/**"
 
-  preview: 
-    port: 22222
-    browser: true
-    watch-inputs: true
-    navigate: true
+preview: 
+  port: 22222
+  browser: true
+  watch-inputs: true
+  navigate: true
 
-title-meta: "Hoang Nhan Ha"
-description-meta: "PhD candidate in Accounting at UC3M"
+metadata:
+  title: "Hoang Nhan Ha"
+  description: "PhD candidate in Accounting at UC3M"
 
 website:
   title: "Hoang Nhan Ha"
-  description: "PhD candidate in Accounting at UC3M"
   site-url: https://hahoangnhan.github.io/
   # image: img/website_thumbnail.png
   
@@ -38,7 +142,7 @@ website:
     pinned: true
     logo: /img/ms_icon.png
     left:
-      - text: Reasearch
+      - text: Research
         href: research/index.qmd
       - text: Teaching
         href: teaching/index.qmd
