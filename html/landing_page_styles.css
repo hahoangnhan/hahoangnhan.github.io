@@ -3,7 +3,7 @@
     --gradient-text: var(--color-primary);
     --gradient-bar: linear-gradient(103.22deg, #c7c7c7 -13.86%, #ff7a48 99.55%);
 
-    --color-primary: #E6AA04;
+    --color-primary: #e69b04; 
     --color-bg: #fff;
     --color-bg-1: #b3a69f;
     --color-bg-2: #d8f2ea;
