@@ -12,20 +12,6 @@ format:
     fig-responsive: true
     css: html/landing_page_styles.css
 
-# listing:
-#   id: blog-listing
-#   contents:   
-#     - "blog/youtube-channel/index.qmd"
-#     - "blog/website-tutorial-quarto/index.qmd"
-#     - "blog/functional-programming-r-basics/index.qmd"
-#     - "blog/agile-methods-for-academia/index.qmd"
-#     - "blog/ggsimplex-prerelease/index.qmd"
-#     - "blog/4-realizations-from-atomic-habits/index.qmd"
-#   sort: "date desc"
-#   type: grid
-#   max-items: 3
-#   grid-columns: 3
-#   fields: [image, date, title]
 ---
 
 ::: {.column-screen}
@@ -48,18 +34,6 @@ I'm ready to teach financial accounting and auditing courses, leveraging my prof
 
 :::
 :::
-
-<!-- ![](img/nhan_toledo.jpg){alt="Nhan Toledo" width="60%" style="display: block; margin-left: auto; margin-right: auto;"}
-
-<link rel="stylesheet" href="html/landing_page_styles.css">
-
-# Hi, I'm <span class="gradient_text">Nhan</span>.
-
-I am a PhD candidate in Accounting at UC3M, preparing to join the job market in 2024-2025. I was a visiting scholar at UNC-Chapel Hill from January to May 2024.
-
-My <span class="gradient_text"><strong><a href="research/index.html" style="color: inherit; text-decoration: none; text-decoration: underline;">research interest</a></strong></span> focuses on comtemporary reporting and auditing issues related to technology, society, and sustainability. To support that, I specialize intensively in data science methods such as machine learning, deep learning, and generative AI, which I apply to both corporate reporting and alternative data sources.
-
-I'm ready to teach financial accounting and auditing courses, leveraging my professional and <span class="gradient_text"><strong><a href="teaching/index.html" style="color: inherit; text-decoration: none;">teaching background</a></strong></span>. I'm also keen to lead research and data-oriented courses, supervise student theses, and mentor PhD students as needed.   -->
 
 :::{#news}
 ## News
