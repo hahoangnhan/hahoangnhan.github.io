@@ -11,6 +11,7 @@ project:
     - "sitemap.xml"
     - "_redirects"
     - "teaching/pdf/**"
+    - "google9f185a83dc98af57.html"  # Add this line
 
 preview: 
   port: 22222
