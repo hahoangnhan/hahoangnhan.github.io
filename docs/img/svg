@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+  <style>
+    .pixel { width: 10px; height: 10px; }
+    .bg { fill: #2c3e50; }
+    .fg { fill: #ecf0f1; }
+  </style>
+  <rect width="80" height="80" fill="#2c3e50"/>
+  <rect class="pixel fg" x="10" y="10"/>
+  <rect class="pixel fg" x="10" y="20"/>
+  <rect class="pixel fg" x="10" y="30"/>
+  <rect class="pixel fg" x="10" y="40"/>
+  <rect class="pixel fg" x="10" y="50"/>
+  <rect class="pixel fg" x="10" y="60"/>
+  <rect class="pixel fg" x="20" y="20"/>
+  <rect class="pixel fg" x="30" y="30"/>
+  <rect class="pixel fg" x="40" y="40"/>
+  <rect class="pixel fg" x="50" y="50"/>
+  <rect class="pixel fg" x="60" y="10"/>
+  <rect class="pixel fg" x="60" y="20"/>
+  <rect class="pixel fg" x="60" y="30"/>
+  <rect class="pixel fg" x="60" y="40"/>
+  <rect class="pixel fg" x="60" y="50"/>
+  <rect class="pixel fg" x="60" y="60"/>
+</svg>

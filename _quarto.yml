@@ -45,7 +45,7 @@ website:
   
   navbar:
     pinned: true
-    logo: /img/ms_icon.png
+    logo: img/letter-N-logo.png
     left:
       - text: Research
         href: research/index.qmd
