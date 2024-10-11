@@ -87,6 +87,11 @@ pre.text, pre.sourceCode, .cell-output pre {
   /*background: linear-gradient(90deg, rgba(0, 97, 242, 1) 0%, rgba(105, 0, 199, 1) 100%);*/
 }
 
+.navbar-logo img {
+    max-height: 30px;
+    width: auto;
+  }
+
 .fixed-top {
  z-index:1000; 
 }
