@@ -3,12 +3,12 @@
     --gradient-text: var(--color-primary);
     --gradient-bar: linear-gradient(103.22deg, #c7c7c7 -13.86%, #ff7a48 99.55%);
 
-    --color-primary: #e69b04; 
+    --color-primary: #EE6A24; 
     --color-bg: #fff;
     --color-bg-1: #b3a69f;
     --color-bg-2: #d8f2ea;
     --color-text: #000;
-    --color-subtext: #E6AA04;
+    --color-subtext: #EE6A24;
 }
 
 * {
