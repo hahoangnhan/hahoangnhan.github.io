@@ -1,7 +1,7 @@
 :root {
 
     --gradient-text: var(--color-primary);
-    --gradient-bar: linear-gradient(103.22deg, #c7c7c7 -13.86%, #ff7a48 99.55%);
+    --gradient-bar: linear-gradient(103.22deg, #c7c7c7 -13.86%, #EE6A24 99.55%);
 
     --color-primary: #EE6A24; 
     --color-bg: #fff;
