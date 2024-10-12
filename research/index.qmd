@@ -6,24 +6,34 @@ comments: false
 toc: false
 ---
 
-
 ## Does Auditor Communication Matter? The Role of Knowledge Compatibility {#knowlegde-compatibility}
+<div style="text-align: right; color: #EE6A24;">
 *(solo-authored, job market paper)* 
+</div>
 
 **[Download the full paper (PDF)](../research/Knowledge_compatibility_HHN.pdf){download="Knowledge_compatibility_HHN.pdf"}**
 
-Auditors need to keep a high profile as thought leaders due to the knowledge-intensive and credence nature of the audit. However, little is known about how auditors signal their expertise to market targets beyond what can be inferred by their past experience (e.g., industry portfolio). To study the relationship between auditor communication strategy and audit market dynamics and audit quality, I introduce the concept of *knowledge compatibility*, which is the alignment between the knowledge auditors offer and that clients demand. I quantify it by the similarity between audit firm podcasts and client forward-looking disclosure. I hypothesize and find that knowledge compatibility is positively associated with (i) audit fees, (ii) the likelihood of new auditor appointments, and (iii) accounting quality. These findings highlight the importance of auditor communication and the role of knowledge compatibility to address the idiosyncratic needs of audit clients. 
+Auditors need to keep a high profile as thought leaders due to the knowledge-intensive and credence nature of the audit. However, little is known about how auditors signal their expertise to market targets beyond what can be inferred by their past experience (e.g., industry portfolio). To study the relationship between <span style="color: #EE6A24;">*auditor communication strategy*</span> and audit market dynamics and audit quality, I introduce the concept of <span style="color: #EE6A24;">*knowledge compatibility*</span>, which is the alignment between the knowledge auditors offer and that clients demand. I quantify it by the similarity between <span style="color: #EE6A24;">*audit firm podcasts*</span> and client forward-looking disclosure. I hypothesize and find that knowledge compatibility is positively associated with (i) <span style="color: #EE6A24;">*audit fees*</span>, (ii) the likelihood of <span style="color: #EE6A24;">*new auditor appointments*</span>, and (iii) <span style="color: #EE6A24;">*accounting quality*</span>. These findings highlight the importance of auditor communication and the role of knowledge compatibility to address the idiosyncratic needs of audit clients.
 
+ 
 ## Auditor Responses to Client-level Exposure to Cryptocurrency {#crypto-audit} 
+<div style="text-align: right; color: #EE6A24;">
+*(with Beatriz García Osma, Thi Thuy Dung Nguyen, and W. Robert Knechel)* 
+</div>
+<div style="text-align: right; color: #EE6A24;">
 *(coressponding author)* 
+</div>
 
-*with Beatriz García Osma, Thi Thuy Dung Nguyen, and W. Robert Knechel* 
+In an ever-evolving technological landscape, auditors are confronted with challenges transcending traditional client boundaries. They increasingly face situations where they <span style="color: #EE6A24;">*do not know what risks might exist*</span>, and where authoritative accounting and auditing <span style="color: #EE6A24;">*guidance are yet to develop*</span>. Amidst the increasing involvement and radical transformation in the nature of assets (and liabilities) that involve cryptocurrency, we examine how auditors respond to these complex issues, despite potential gaps in expertise and professional guidance. We construct and validate <span style="color: #EE6A24;">*a text-based measure*</span> of the level and nature of <span style="color: #EE6A24;">*client-level exposure to cryptocurrency*</span>. Our findings reveal an association between client exposure to cryptocurrency and <span style="color: #EE6A24;">*auditor reporting decisions*</span>. We also report a heightened <span style="color: #EE6A24;">*audit-office demand for crypto-related skills*</span>. The results underscore proactive efforts by auditors to keep pace with their clients’ idiosyncratic business risks in the rapidly developing and uncertain information environment surrounding emerging technological developments, often years ahead of regulation and standard setting.
 
-In an ever-evolving technological landscape, auditors are confronted with challenges transcending traditional client boundaries. They increasingly face situations where they do not know what risks might exist, and where authoritative accounting and auditing guidance are yet to develop. Amidst the increasing involvement and radical transformation in the nature of assets (and liabilities) that involve cryptocurrency, we examine how auditors respond to these complex issues, despite potential gaps in expertise and professional guidance. We construct and validate a text-based measure of the level and nature of client-level exposure to cryptocurrency. Our findings reveal an association between client exposure to cryptocurrency and auditor reporting decisions. We also report a heightened audit-office demand for crypto-related skills. The results underscore proactive efforts by auditors to keep pace with their clients’ idiosyncratic business risks in the rapidly developing and uncertain information environment surrounding emerging technological developments, often years ahead of regulation and standard setting.
 
 ## Cybersecurity Commitment {#cyber-commit} 
+
+<div style="text-align: right; color: #EE6A24;">
+*(with Encarna Guillamon Saorin)* 
+</div>
+<div style="text-align: right; color: #EE6A24;">
 *(coressponding author)* 
+</div>
 
-*with Encarna Guillamon Saorin*
-
-We propose a concept of the firm proactive strategy in the report and address cybersecurity risks as cybersecurity commitment. We then quantify cybersecurity commitment from the Management Discussion and Analysis (MD\&A) section of 10-K filings and examine its relations with economic consequences and market valuation. We also decompose the nature of commitment by detecting five main topics: corporate governance, physical and financial resources, technology, policy, and stakeholder engagement. Our results indicate that companies showing cybersecurity commitment are less likely to experience data breaches, and this protective effect is particularly strong in companies with greater breach risks. Firms with higher levels of cybersecurity commitment will get more favorable operating debt covenants. High-risk but non-breached firms benefit from showing a strong cybersecurity commitment, which lessens market negative spillover during breach events in the industry. Overall, our results suggest that cybersecurity commitment helps firms to lessen breaches and is valued positively by capital providers.  
+We propose a concept of the firm proactive strategy in reporting and addressing cybersecurity risks as <span style="color: #EE6A24;">*cybersecurity commitment*</span>. We then <span style="color: #EE6A24;">*quantify*</span> cybersecurity commitment from the Management Discussion and Analysis (MD\&A) section of 10-K filings and examine its relations with <span style="color: #EE6A24;">*economic consequences*</span> and <span style="color: #EE6A24;">*market valuation*</span>. We also decompose the nature of commitment by detecting five main topics: corporate governance, physical and financial resources, technology, policy, and stakeholder engagement. Our results indicate that companies showing cybersecurity commitment are <span style="color: #EE6A24;">*less likely to experience data breaches*</span>, and this protective effect is particularly strong in companies with greater breach risks. Firms with higher levels of cybersecurity commitment will get <span style="color: #EE6A24;">*more favorable operating debt covenants*</span>. High-risk but non-breached firms benefit from showing a strong cybersecurity commitment, which <span style="color: #EE6A24;">*lessens market negative spillover*</span> during breach events in the industry. Overall, our results suggest that cybersecurity commitment helps firms to lessen breaches and is valued positively by capital providers.
