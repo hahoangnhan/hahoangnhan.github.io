@@ -17,11 +17,11 @@ Auditors need to keep a high profile as thought leaders due to the knowledge-int
 
  
 ## Auditor Responses to Client-level Exposure to Cryptocurrency {#crypto-audit} 
-<div style="text-align: right; color: #EE6A24;">
-*(with Beatriz García Osma, Thi Thuy Dung Nguyen, and W. Robert Knechel)* 
+<div style="text-align: right; color: #EE6A24; margin: 0;">
+*(with Beatriz García Osma, Thi Thuy Dung Nguyen&#42;, and W. Robert Knechel)* 
 </div>
 <div style="text-align: right; color: #EE6A24;">
-*(co-corresponding author)* 
+*(&#42;co-corresponding author)* 
 </div>
 
 In an ever-evolving technological landscape, auditors are confronted with challenges transcending traditional client boundaries. They increasingly face situations where they <span style="color: #EE6A24;">*do not know what risks might exist*</span>, and where authoritative accounting and auditing <span style="color: #EE6A24;">*guidance are yet to develop*</span>. Amidst the increasing involvement and radical transformation in the nature of assets (and liabilities) that involve cryptocurrency, we examine how auditors respond to these complex issues, despite potential gaps in expertise and professional guidance. We construct and validate <span style="color: #EE6A24;">*a text-based measure*</span> of the level and nature of <span style="color: #EE6A24;">*client-level exposure to cryptocurrency*</span>. Our findings reveal an association between client exposure to cryptocurrency and <span style="color: #EE6A24;">*auditor reporting decisions*</span>. We also report a heightened <span style="color: #EE6A24;">*audit-office demand for crypto-related skills*</span>. The results underscore proactive efforts by auditors to keep pace with their clients’ idiosyncratic business risks in the rapidly developing and uncertain information environment surrounding emerging technological developments, often years ahead of regulation and standard setting.
