@@ -6,19 +6,15 @@ comments: false
 toc: false
 ---
 
-
 My research interests include <span style="color: #EE6A24;">*corporate disclosure and auditing*</span>, with a particular focus on their economic consequences. My current agenda examines on how corporate reporting and auditing navigate untraditional and emerging issues related to <span style="color: #EE6A24;">*technology, society, and sustainability*</span> to meet market and public demand for high-quality information. To support that, I apply cutting-edge data science techniques, such as <span style="color: #EE6A24;">*machine learning*</span> and <span style="color: #EE6A24;">*generative AI*</span>, to explore <span style="color: #EE6A24;">*novel databases*</span> and quantify <span style="color: #EE6A24;">*new research concepts*</span>.
-
 
 ## Does Auditor Communication Matter? The Role of Knowledge Compatibility {#knowlegde-compatibility}
 <div style="text-align: right; color: #EE6A24;">
 *(solo-authored, job market paper)* 
 </div>
 
-
 > Auditors need to keep a high profile as thought leaders due to the knowledge-intensive and credence nature of the audit. However, little is known about how auditors signal their expertise to market targets beyond what can be inferred by their past experience (e.g., industry portfolio). To study the relationship between <span style="color: #EE6A24;">*auditor communication strategy*</span> and audit market dynamics and audit quality, I introduce the concept of <span style="color: #EE6A24;">*knowledge compatibility*</span>, which is the alignment between the knowledge auditors offer and that clients demand. I quantify it by the similarity between <span style="color: #EE6A24;">*audit firm podcasts*</span> and client forward-looking disclosure. I hypothesize and find that knowledge compatibility is positively associated with (i) <span style="color: #EE6A24;">*audit fees*</span>, (ii) the likelihood of <span style="color: #EE6A24;">*new auditor appointments*</span>, and (iii) <span style="color: #EE6A24;">*accounting quality*</span>. I also provide evidence on the credibility of communication and actual knowledge development by hiring activities. These findings highlight the importance of auditor communication and the role of knowledge compatibility to address the idiosyncratic needs of audit clients.
 
- 
 ## Auditor Responses to Client-level Exposure to Cryptocurrency {#crypto-audit} 
 <div style="text-align: right; color: #EE6A24; margin: 0;">
 *(with Beatriz García Osma, Thi Thuy Dung Nguyen&#42;, and W. Robert Knechel)* 
@@ -29,9 +25,7 @@ My research interests include <span style="color: #EE6A24;">*corporate disclosur
 
 > In an ever-evolving technological landscape, auditors are confronted with challenges transcending traditional client boundaries. They increasingly face situations where they <span style="color: #EE6A24;">*do not know what risks might exist*</span>, and where authoritative accounting and auditing <span style="color: #EE6A24;">*guidance are yet to develop*</span>. Amidst the increasing involvement and radical transformation in the nature of assets (and liabilities) that involve cryptocurrency, we examine how auditors respond to these complex issues, despite potential gaps in expertise and professional guidance. We construct and validate <span style="color: #EE6A24;">*a text-based measure*</span> of the level and nature of <span style="color: #EE6A24;">*client-level exposure to cryptocurrency*</span>. Our findings reveal an association between client exposure to cryptocurrency and <span style="color: #EE6A24;">*auditor reporting decisions*</span>. We also report a heightened <span style="color: #EE6A24;">*audit-office demand for crypto-related skills*</span>. The results underscore proactive efforts by auditors to keep pace with their clients’ idiosyncratic business risks in the rapidly developing and uncertain information environment surrounding emerging technological developments, often years ahead of regulation and standard setting.
 
-
 ## Cybersecurity Commitment {#cyber-commit} 
-
 <div style="text-align: right; color: #EE6A24;">
 *(with Encarna Guillamon Saorin)* 
 </div>
