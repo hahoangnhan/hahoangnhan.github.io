@@ -15,7 +15,6 @@ My research interests include <span style="color: #EE6A24;">*corporate disclosur
 *(solo-authored, job market paper)* 
 </div>
 
-**[Download the full paper (PDF)](../research/Knowledge_compatibility_HHN.pdf){download="Knowledge_compatibility_HHN.pdf"}**
 
 > Auditors need to keep a high profile as thought leaders due to the knowledge-intensive and credence nature of the audit. However, little is known about how auditors signal their expertise to market targets beyond what can be inferred by their past experience (e.g., industry portfolio). To study the relationship between <span style="color: #EE6A24;">*auditor communication strategy*</span> and audit market dynamics and audit quality, I introduce the concept of <span style="color: #EE6A24;">*knowledge compatibility*</span>, which is the alignment between the knowledge auditors offer and that clients demand. I quantify it by the similarity between <span style="color: #EE6A24;">*audit firm podcasts*</span> and client forward-looking disclosure. I hypothesize and find that knowledge compatibility is positively associated with (i) <span style="color: #EE6A24;">*audit fees*</span>, (ii) the likelihood of <span style="color: #EE6A24;">*new auditor appointments*</span>, and (iii) <span style="color: #EE6A24;">*accounting quality*</span>. I also provide evidence on the credibility of communication and actual knowledge development by hiring activities. These findings highlight the importance of auditor communication and the role of knowledge compatibility to address the idiosyncratic needs of audit clients.
 
