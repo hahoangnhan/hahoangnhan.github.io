@@ -32,7 +32,7 @@ metadata:
 #   - audit research
 
 website:
-  title: "Hoang Nhan Ha"
+  title: "Nhan Ha"
   site-url: https://hahoangnhan.github.io/
   # image: img/website_thumbnail.png
   
@@ -64,7 +64,7 @@ website:
         href: https://www.linkedin.com/in/nhanhh/
       - icon: envelope
         aria-label: email
-        href: "mailto:nha@emp.uc3m.es"
+        href: "mailto:n.ha@ieseg.fr"
   
   page-footer: 
     left: |
