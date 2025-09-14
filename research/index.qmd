@@ -7,6 +7,7 @@ toc: false
 ---
 
 My research interests include <span style="color: #EE6A24;">*corporate disclosure and auditing*</span>, with a particular focus on their economic consequences. My current agenda examines on how corporate reporting and auditing navigate untraditional and emerging issues related to <span style="color: #EE6A24;">*technology and regulatory development*</span> to meet public demand for high-quality information. To support that, I apply cutting-edge data science techniques, such as <span style="color: #EE6A24;">*machine learning*</span> and <span style="color: #EE6A24;">*generative AI*</span>, to explore <span style="color: #EE6A24;">*novel databases*</span> and quantify <span style="color: #EE6A24;">*new research concepts*</span>.
+
 ## Does Auditor Communication Matter? The Role of Knowledge Compatibility {#knowlegde-compatibility}
 <div style="text-align: right; color: #EE6A24; margin: 0;">
 *(with Beatriz García Osma and Jun Nguyen&#42;)* 
